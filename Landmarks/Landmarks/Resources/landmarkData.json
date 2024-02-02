@@ -1,0 +1,130 @@
+[
+    {
+        "name": "阅江大桥",
+        "category": "Lakes",
+        "city": "肇庆",
+        "state": "广东省",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "端州区",
+        "coordinates": {
+            "longitude": 112.491605,
+            "latitude": 23.03343
+        },
+        "description": "阅江大桥（Yuejiang Bridege）是中国广东省肇庆市境内连接高要区与端州区的过江通道，位于西江水道之上，是肇庆市中部城市主干路的重要构成部分。阅江大桥位置中国广东省肇庆市，连接高要区与端州区，西距上游西江大桥约3.9千米 ，东距下游肇庆大桥约4.8千米；该桥南起高要区世纪大道西段立交，上跨西江水道，北至端州区后再跨江滨三路，沿古塔中路止于与蓓蕾北路交汇路口；途经该桥线路为古塔中路。",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "金林水乡",
+        "category": "Rivers",
+        "city": "肇庆",
+        "state": "广东省",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "德庆县",
+        "coordinates": {
+            "longitude": 111.812144,
+            "latitude": 23.283912
+        },
+        "description": "金林地理形势奇特。“寿星、金龟、蝠、鹿、鹤”五山环绕村庄，有五山会局之势。村前八棵秀茂古榕，加上樟树、相思树、红棉及稀有的菩提树，像绿色屏障横亘于村边。金林独具水乡特色，古来就有两河双圳五大井，两河就是金林河、古岚河，村内的四大井和村外的“高清井”是“龙眼”，双圳从各家各户的门前流过。湖泊池塘众多，有上林塘、北秀湖、葵扇塘，积善塘、金水池等。",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "鼎湖山",
+        "category": "Mountains",
+        "city": "肇庆",
+        "state": "广东省",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "鼎湖区",
+        "coordinates": {
+            "longitude": 112.54915,
+            "latitude": 23.163323
+        },
+        "description": "鼎湖山是岭南四大名山之首，距肇庆城区东北18公里。因地球上北回归线穿过的地方大都是沙漠或干草原，所以鼎湖山又被中外学者誉为“北回归线上的绿宝石”，与丹霞山、罗浮山、西樵山合称为广东省四大名山。",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "星湖",
+        "category": "Rivers",
+        "city": "肇庆",
+        "state": "广东省",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "端州区",
+        "coordinates": {
+            "longitude": 112.479819,
+            "latitude": 23.076791
+        },
+        "description": "1955年冬始辟成湖。面积约6平方公里。湖中修有20余公里的长堤，将湖分为波海湖、中心湖、东湖、湖光湖、青莲湖和里湖等六部分。湖滨有7座石灰岩山，称七星岩。以湖岩石洞取胜，在山崖湖堤间建有亭台楼阁40余座，各湖之间有堤桥相连。银湖黛峰，林荫覆道，碧水波光，垂虹弄影，景色优美，有“桂林之山，杭州之水”的美誉。为全国重点风景名胜区。",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "盘龙峡",
+        "category": "Rivers",
+        "city": "肇庆市",
+        "state": "广东省",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "德庆县",
+        "coordinates": {
+            "longitude": 111.838015,
+            "latitude": 23.357552
+        },
+        "description": "盘龙峡生态旅游区以其得天独厚的山、水、森林等自然生态资源禀赋，成功开发了勇士漂流、瀑布观光、峡谷品氧、全国最大的水车群、全国最具风情的山顶木屋度假村、熏衣草木屋王国酒店、盘龙天堂度假酒店、高空滑索、森林水世界等等生态休闲型旅游产品。",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "贞山",
+        "category": "Mountains",
+        "city": "肇庆",
+        "state": "广东省",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "四会",
+        "coordinates": {
+            "longitude": 112.669307,
+            "latitude": 23.312755
+        },
+        "description": "贞山位于广东肇庆四会的西南面3公里处，海拔649米，风景区内林木茂盛，山清谷幽；清泉瀑布，云蒸霞蔚，有如人间仙景。是悠闲、娱乐、放松的好地方，风景区空气清新，是一个呼吸大自然空气的度假胜地。",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "羚羊峡",
+        "category": "Lakes",
+        "city": "肇庆",
+        "state": "广东省",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "高要区",
+        "coordinates": {
+            "longitude": 112.54075,
+            "latitude": 23.10744
+        },
+        "description": "羚羊峡两山南北对峙，高插云天。现时的高要区就是因羚羊峡山高险要而得名。西江因羚羊峡的入口较窄，水流湍急。龙凤章先生作《羚羊峡铭》描写水流“猛虎奔前”。每年西江汛期，混浊汹涌的洪水以雷霆万钧之势，穿峡出谷、迅猛直泻，滚滚洪流，给人们显示大自然的威力。描写地势“扼咽喉于岭南”。羚羊峡锁两粤水路的咽喉，是天然的屏障，有一夫当关，万夫莫开险要的地势。清朝咸丰帝在此设立海关，军阀李宗仁，白崇禧选在出峡口山腰筑碉堡，抗日战事在这里设海军舰队。",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "宝锭山",
+        "category": "Mountains",
+        "city": "肇庆",
+        "state": "广东省",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "广宁县",
+        "coordinates": {
+            "longitude": 112.420369,
+            "latitude": 23.598659
+        },
+        "description": "宝锭山风景区，座落在全国十大竹子之乡之一的广东省肇庆市广宁县。宝锭山风景区综合旅游项目于2005年开始对外营业开放，项目规划占地面积约500亩，年接待游客近50万人次。景区以竹文化、财神文化和养生文化为主题，景区的主要亮点有“天下第一财神”、竹文化博物馆和中国竹业产品展销中心。",
+        "imageName": "icybay"
+    }
+]
